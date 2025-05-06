@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Will Mathewson, Jaden Sung, Derrick Phan, Steven Ortiz
 format: html
 editor: visual
 embed-resources: true
