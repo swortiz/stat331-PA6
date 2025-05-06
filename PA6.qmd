@@ -1,6 +1,10 @@
 ---
 title: "Practice Activity 6"
+<<<<<<< HEAD
 author: Will Mathewson, Jaden Sung, Derrick Phan, Steven Ortiz
+=======
+author: Derrick, Steven, Jaden, Will
+>>>>>>> 3aa83c044c200bf54e17525c1469dfcc21acd21c
 format: html
 editor: visual
 embed-resources: true
