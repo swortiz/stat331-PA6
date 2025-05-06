@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Derrick, Steven, Jaden, Will
 format: html
 editor: visual
 embed-resources: true
